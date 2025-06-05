@@ -5,3 +5,4 @@ description: "WIP"
 version: "Pre-content"
 minGameVersion: "149"
 repo: "Craftgenix1/PurpleEye"
+hidden: false
