@@ -2,7 +2,7 @@ name: "purpleeye"
 displayName: "Purple eye"
 author: "Craftgenix"
 description: "WIP"
-version: "0.0"
+version: "0.1"
 minGameVersion: "149"
 hidden: true
 repo: "https://github.com/Craftgenix1/PurpleEye"
