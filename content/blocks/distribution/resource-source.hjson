@@ -17,5 +17,3 @@ requirements: [
   copper/1
 ]
 category: distribution
-bridgeReplacement: bridge
-junctionReplacement: junction
