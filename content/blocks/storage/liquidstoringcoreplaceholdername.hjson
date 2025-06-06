@@ -13,7 +13,6 @@ health: 2000
 armor: 1
 unitType: flare
 incinerateNonBuildable: true
-category: effect
 squareSprite: false
 itemCapacity: 5000
 unitCapModifier: 30
