@@ -1,9 +1,9 @@
 research: {
   parent: conveyor
   requirements: [
-    copper/3,000
-    lead/3,000
-    silicon/2,000
+    copper/3000
+    lead/3000
+    silicon/2000
   ]
 }
 
