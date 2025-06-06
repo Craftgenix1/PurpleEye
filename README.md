@@ -8,5 +8,5 @@ An upcoming mod for mindustry
 ## 3. Item sources, item sinks, item resevoirs
 - Sources: take from resevoirs
 - Sinks: add to resevoirs
-- Resevoirs: store from sources and give to sinks, can only hold one type of resource
+- Resevoirs: store from sinks and give to sources, can only hold one type of resource
 ## 4. uhhh...
