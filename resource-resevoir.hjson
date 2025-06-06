@@ -1,0 +1,21 @@
+research: {
+  parent: conveyor
+  requirements: [
+    copper/3,000
+    lead/3,000
+    silicon/2,000
+  ]
+}
+
+
+# this will be a 3x3
+type: Duct
+size: 3
+health: 65
+speed: 10
+requirements: [
+  copper/1
+]
+category: distribution
+bridgeReplacement: bridge
+junctionReplacement: junction
