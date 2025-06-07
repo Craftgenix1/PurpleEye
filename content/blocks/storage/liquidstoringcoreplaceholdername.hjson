@@ -8,7 +8,7 @@ research: {
 }
 # this will be a 3x3
 type: CoreBlock
-size: 2
+size: 3
 health: 2000
 armor: 1
 unitType: flare
