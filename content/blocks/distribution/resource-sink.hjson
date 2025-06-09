@@ -7,8 +7,6 @@ research: {
   ]
 }
 
-
-# this will be a 1x1 [?]
 type: Duct
 size: 1
 health: 65

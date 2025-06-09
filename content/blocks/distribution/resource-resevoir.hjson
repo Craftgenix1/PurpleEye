@@ -7,8 +7,6 @@ research: {
   ]
 }
 
-
-# this will be a 3x3
 type: Duct
 size: 3
 health: 65
