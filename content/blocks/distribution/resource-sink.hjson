@@ -1,16 +1,13 @@
 research: {
   parent: conveyor
   requirements: [
-    copper/3000
-    lead/3000
-    silicon/2000
+    copper/1
   ]
 }
 
-type: Duct
+type: ItemVoid
 size: 1
 health: 65
-speed: 10
 requirements: [
   copper/1
 ]
