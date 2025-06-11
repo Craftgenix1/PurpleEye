@@ -26,11 +26,3 @@ An upcoming mod for mindustry
 - would make it so that walls would automatically combine, would remove 'large' varients of walls however
 
 ## 6. uhhh...
-
-#### just testing something below here, don't mind me
-
-
-<style>
-    .demo-highlight { color: yellow; }
-</style>
-<span class="demo-highlight">This text is highlighted in yellow.</span>
