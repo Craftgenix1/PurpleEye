@@ -1,0 +1,17 @@
+research: {
+  parent: conveyor
+  requirements: [
+    copper/1
+  ]
+}
+"if":{1=1}
+"then": {type: conveyor
+}
+"else":{type: 
+}
+size: 3
+health: 65
+speed: 10000
+requirements: [
+  copper/1
+]

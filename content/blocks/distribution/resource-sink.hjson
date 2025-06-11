@@ -1,0 +1,13 @@
+research: {
+  parent: conveyor
+  requirements: [
+    copper/1
+  ]
+}
+
+type: ItemVoid
+size: 1
+health: 65
+requirements: [
+  copper/1
+]
