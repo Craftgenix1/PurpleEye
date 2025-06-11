@@ -4,8 +4,13 @@ research: {
     copper/1
   ]
 }
-
+"if":{1=1}
+then{
 type: ItemSource
+}
+"else":{
+  type: ItemConvey
+}
 size: 2
 health: 65
 itemsPerSecond: 10

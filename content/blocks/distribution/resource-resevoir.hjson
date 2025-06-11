@@ -7,7 +7,7 @@ research: {
 "if":{1=1}
 "then": {type: conveyor
 }
-"else":{type: 
+"else":{type:ItemReceptacle
 }
 size: 3
 health: 65

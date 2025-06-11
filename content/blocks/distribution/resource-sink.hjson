@@ -4,8 +4,13 @@ research: {
     copper/1
   ]
 }
-
-type: ItemVoid
+"if":{1=1}
+"then":{
+type=ItemVoid
+}
+"else":{
+  type=ItemHoist
+}
 size: 1
 health: 65
 requirements: [

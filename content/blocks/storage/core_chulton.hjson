@@ -8,7 +8,13 @@ research: {
 }
 
 # this will be a 7x7
+"if": {1=1}
+"then": {
 type: CoreBlock
+}
+"else":{
+  type:CoreTank
+}
 size: 7
 health: 2000
 armor: 1
@@ -18,4 +24,4 @@ squareSprite: false
 itemCapacity: 5000
 unitCapModifier: 30
 buildVisibility: sandboxOnly
-requiresCoreZone: false
+requiresCoreZone: true
