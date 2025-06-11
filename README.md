@@ -5,7 +5,7 @@ An upcoming mod for mindustry
 
 
 ## 1. liquids in core
-- might add blocks for packaging/unpackaging liquids, unless there's an easier way
+- [yellow]making a new path of cores that will have their own 'type' which will handle this
 
 ## 2. Drills only need 1 output [maybe would require a block to place over/around the drills]
 - would try to find area, output to singular block that initiates check[?]
@@ -26,3 +26,11 @@ An upcoming mod for mindustry
 - would make it so that walls would automatically combine, would remove 'large' varients of walls however
 
 ## 6. uhhh...
+
+#### just testing something below here, don't mind me
+
+
+<style>
+    .demo-highlight { color: yellow; }
+</style>
+<span class="demo-highlight">This text is highlighted in yellow.</span>
