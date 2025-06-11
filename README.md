@@ -22,4 +22,7 @@ An upcoming mod for mindustry
 ## 4. A way to get any resource in any sector
 - would add a factory block for every resource that isn't solely made through other resources [sorry metaglass]
 
-## 5. uhhh...
+## 5. Smart walls
+- would make it so that walls would automatically combine, would remove 'large' varients of walls however
+
+## 6. uhhh...
