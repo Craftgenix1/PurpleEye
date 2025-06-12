@@ -1,0 +1,60 @@
+type:flying
+flying:true
+controller:builderAI
+facetarget:true
+targetPriority:-2
+health:300
+armor:4
+speed:4
+mineWalls: true
+isEnemy: false
+hittable: false
+targetable: false
+mineSpeed: 2
+mineTier: 2
+buildSpeed: 1.1
+accel: 0.09
+drag: 0.08
+lowAltitude: false
+groundLayer: 40
+shadowElevation: 0.1
+rotateSpeed: 10
+itemCapacity: 50
+outlineColor: 26262f
+waveTrailY: -3.0
+trailColor: d8f18c
+trailLength: 12
+fogRadius: 0
+engines: [
+   {
+    x: 0
+    y: -6
+    radius: 3.5
+    rotation: -90
+   }
+ ]
+ weapons: [
+  {
+  widthSinMag: 0.1
+    x: 0
+    y: 5
+    laserColor: d8f18c
+    mirror: false
+    type: RepairBeamWeapon
+    rotate: false
+    targetBuildings: true
+    targetUnits: false
+    autoTarget: false
+    controllable: true
+    reload: 20
+    shootY: 0
+    shootCone: 15
+    beamWidth: 0.8
+    repairSpeed: 3.5
+    fractionRepairSpeed: 0.06
+    bullet: {
+      type: BulletType
+      maxRange: 60
+      }
+    }
+]

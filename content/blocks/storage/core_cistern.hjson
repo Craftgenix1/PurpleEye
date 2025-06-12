@@ -13,7 +13,7 @@ type: CoreBlock
 size: 3
 health: 2000
 armor: 1
-unitType: gamma
+unitType: covert
 incinerateNonBuildable: true
 squareSprite: false
 itemCapacity: 8500
