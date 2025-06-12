@@ -8,13 +8,8 @@ research: {
 }
 
 # this will be a 3x3
-"if": {1=1}
-"then": {
 type: CoreBlock
-}
-"else":{
-  type:CoreTank
-}
+#type:CoreTank
 size: 3
 health: 2000
 armor: 1

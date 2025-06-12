@@ -6,11 +6,8 @@ research: {
     silicon/2500
   ]
 }
-"if":{1=1}
-"then": {type: conveyor
-}
-"else":{type:ItemReceptacle
-}
+type: conveyor
+#type:ItemReceptacle
 size: 3
 health: 65
 # StorageSize: 2000 
