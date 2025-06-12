@@ -5,7 +5,7 @@ An upcoming mod for mindustry
 
 
 ## 1. liquids in core
-- [yellow]making a new path of cores that will have their own 'type' which will handle this
+- making a new path of cores that will have their own 'type' which will handle this
 
 ## 2. Drills only need 1 output [maybe would require a block to place over/around the drills]
 - would try to find area, output to singular block that initiates check[?]
@@ -25,4 +25,7 @@ An upcoming mod for mindustry
 ## 5. Smart walls
 - would make it so that walls would automatically combine, would remove 'large' varients of walls however
 
-## 6. uhhh...
+## 6. unit-powered power source
+- probably just going to be something you can click that outputs power every time you click it- used for starting up perpetual power plants, might even let out an arc of electricity if you click it without attaching it to anythuing else [damages enemy units [not a lot], does not damage ally buildings]
+
+## 7. uhhh...
