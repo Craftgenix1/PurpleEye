@@ -48,7 +48,7 @@ weapons: [
     shootY: 0
     shootCone: 15
     bullet: {
-      type: BulletType
+      type: BasicBulletType
       lifetime:70
       damage: 14
       maxRange: 80
