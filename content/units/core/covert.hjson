@@ -7,9 +7,9 @@ health:300
 armor:4
 speed:4
 mineWalls: true
-isEnemy: false
-hittable: false
-targetable: false
+isEnemy: true
+hittable: true
+targetable: true
 mineSpeed: 2
 mineTier: 2
 buildSpeed: 1.1
@@ -19,12 +19,12 @@ lowAltitude: false
 groundLayer: 40
 shadowElevation: 0.1
 rotateSpeed: 10
-itemCapacity: 50
-outlineColor: 26262f
+itemCapacity: 100
+outlineColor: 46164f
 waveTrailY: -3.0
-trailColor: d8f18c
-trailLength: 12
-fogRadius: 0
+trailColor: d8a1d8
+trailLength: 30
+fogRadius: 10
 engines: [
    {
     x: 0
@@ -33,28 +33,26 @@ engines: [
     rotation: -90
    }
  ]
- weapons: [
+weapons: [
   {
   widthSinMag: 0.1
     x: 0
     y: 5
-    laserColor: d8f18c
-    mirror: false
-    type: RepairBeamWeapon
-    rotate: false
+    mirror: true
+    rotate: true
     targetBuildings: true
-    targetUnits: false
-    autoTarget: false
+    targetUnits: true
+    autoTarget: true
     controllable: true
     reload: 20
     shootY: 0
     shootCone: 15
-    beamWidth: 0.8
-    repairSpeed: 3.5
-    fractionRepairSpeed: 0.06
     bullet: {
       type: BulletType
-      maxRange: 60
+      damage: 14
+      maxRange: 80
+      frontColor: f320f3
+      backColor: d310d3
       }
     }
 ]
