@@ -21,7 +21,8 @@ armor: 1
 unitType: gamma
 incinerateNonBuildable: true
 squareSprite: false
-itemCapacity: 5000
+itemCapacity: 8500
+#fluidCapacity: 7250
 unitCapModifier: 30
 buildVisibility: sandboxOnly
 requiresCoreZone: false

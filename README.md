@@ -17,7 +17,7 @@ An upcoming mod for mindustry
 
 - Upgrades:
   - base item speed: undecided
-  - base item capacity: 2,000 for resevoir, 100 for the other two
+  - base item capacity: 2,000 per resevoir, 100 for the other two
 
 ## 4. A way to get any resource in any sector
 - would add a factory block for every resource that isn't solely made through other resources [sorry metaglass]

@@ -1,7 +1,9 @@
 research: {
-  parent: conveyor
+  parent: router
   requirements: [
-    copper/1
+    copper/5000
+    lead/10
+    silicon/3000
   ]
 }
 "if":{1=1}
@@ -13,6 +15,7 @@ type=ItemVoid
 }
 size: 1
 health: 65
+ItemCapacity: 100
 requirements: [
   copper/1
 ]

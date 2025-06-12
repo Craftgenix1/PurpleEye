@@ -1,7 +1,9 @@
 research: {
-  parent: conveyor
+  parent: resource-resevoir
   requirements: [
-    copper/1
+    copper/3000
+    lead/4000
+    silicon/10
   ]
 }
 "if":{1=1}
@@ -13,6 +15,7 @@ type: ItemSource
 }
 size: 2
 health: 65
+ItemCapacity: 100
 itemsPerSecond: 10
 requirements: [
   copper/1

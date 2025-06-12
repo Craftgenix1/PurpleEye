@@ -1,7 +1,9 @@
 research: {
-  parent: conveyor
+  parent: resource-sink
   requirements: [
-    copper/1
+    copper/2500
+    lead/3750
+    silicon/2500
   ]
 }
 "if":{1=1}
@@ -11,7 +13,9 @@ research: {
 }
 size: 3
 health: 65
-speed: 10000
+# StorageSize: 2000 
 requirements: [
-  copper/1
+  copper/200
+  lead/300
+  silicon/200
 ]

@@ -16,12 +16,13 @@ type: CoreBlock
   type:CoreTank
 }
 size: 4
-health: 2000
+health: 7000
 armor: 1
 unitType: gamma
 incinerateNonBuildable: true
 squareSprite: false
-itemCapacity: 5000
+itemCapacity: 14000
+#fluidCapacity: 13500
 unitCapModifier: 30
 buildVisibility: sandboxOnly
 requiresCoreZone: true
