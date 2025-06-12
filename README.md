@@ -9,10 +9,20 @@ An upcoming mod for mindustry
   - Core: Cistern
       - the T1 core, higher carrying capacity, health, and [potentially] armor than the core, can carry liquids
       - T1 unit: [undefined] has upgraded mining speed, carrying capacity, moving speed, building speed, and damage- new mechanic: split unit functions- will have an 'attack' mode and a 'build mode, activated by proximity to enemy units, the top half will activate it's weapons and stop building, meanwhile the bottom half will keep building [albeit at a slower pace] and will not prioritize staying close to what it's building
+        
   - Core: Kilderkin the T2 core, upgrades off of T1
-  - T2 unit: upgrades off of the T1 unit
-- I ran out of time, there is more
+    - T2 unit: upgrades off of the T1 unit
+      
+  - Core: Puncheon the T3 core, not the end of it
+    - T3 unit: the T3 unit, far from over
+    
+  - Core: Demijohn the T4 core, even more storage
+    - T4 unit: the first [that I know of] T4 core unit
+      
+  - Core: Chulton the T5 core, the final tier [for now] sports massive size, and even more storage. for true colonizers only.
+    - T5 unit: the final core unit. surprisingly spry.
 
+    
 ## 2. Drills only need 1 output [maybe would require a block to place over/around the drills]
 - would try to find area, output to singular block that initiates check[?]
 
