@@ -49,7 +49,7 @@ weapons: [
     shootCone: 15
     bullet: {
       type: BasicBulletType
-      lifetime:70
+      lifetime:20
       damage: 14
       maxRange: 80
       frontColor: f320f3
