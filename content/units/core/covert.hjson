@@ -10,7 +10,7 @@ mineWalls: true
 isEnemy: true
 hittable: true
 targetable: true
-mineSpeed: 2
+mineSpeed: 10
 mineTier: 2
 buildSpeed: 1.1
 accel: 0.09
@@ -49,6 +49,7 @@ weapons: [
     shootCone: 15
     bullet: {
       type: BulletType
+      lifetime:70
       damage: 14
       maxRange: 80
       frontColor: f320f3
