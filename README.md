@@ -8,7 +8,7 @@ An upcoming mod for mindustry
 - new upgrade path for the serpulo core!
   - Core: Cistern
       - the T1 core, higher carrying capacity, health, and [potentially] armor than the core, can carry liquids
-      - T1 unit: [undefined] has upgraded mining speed, carrying capacity, moving speed, building speed, and damage- new mechanic: split unit functions- will have an 'attack' mode and a 'build mode, activated by proximity to enemy units, the top half will activate it's weapons and stop building, meanwhile the bottom half will keep building [albeit at a slower pace] and will not prioritize staying close to what it's building
+      - T1 unit: [undefined] has upgraded mining speed, carrying capacity, moving speed, building speed, and damage- new mechanic: split unit functions- will have an 'attack' mode and a 'build' mode, activated by proximity to enemy units, the top half will activate it's weapons and stop building, meanwhile the bottom half will keep building [albeit at a slower pace] and will not prioritize staying close to what it's building
         
   - Core: Kilderkin the T2 core, upgrades off of T1
     - T2 unit: upgrades off of the T1 unit
