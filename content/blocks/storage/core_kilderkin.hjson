@@ -1,5 +1,5 @@
 research: {
-  parent: core-shard
+  parent: core_cistern
   requirements: [
     copper/3000
     lead/3000
@@ -10,10 +10,11 @@ research: {
 # this will be a 4x4
 type: CoreBlock
 #type:CoreTank
+category: effect
 size: 4
 health: 7000
 armor: 1
-unitType: gamma
+unitType: bunker
 incinerateNonBuildable: true
 squareSprite: false
 itemCapacity: 14000

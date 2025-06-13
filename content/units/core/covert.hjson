@@ -4,13 +4,13 @@ controller:builderAI
 facetarget:true
 targetPriority:-2
 health:300
-armor:4
-speed:4
+armor:10
+speed:8a
 mineWalls: true
 isEnemy: true
 hittable: true
 targetable: true
-mineSpeed: 10
+mineSpeed: 15
 mineTier: 2
 buildSpeed: 1.1
 accel: 0.09
@@ -50,7 +50,7 @@ weapons: [
     bullet: {
       type: BasicBulletType
       lifetime:20
-      damage: 14
+      damage: 24
       maxRange: 80
       frontColor: f320f3
       backColor: d310d3

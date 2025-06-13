@@ -16,3 +16,5 @@ requirements: [
   lead/300
   silicon/200
 ]
+# doorCloseLarge <-- ambient gaining items effect
+# doorOpenLarge <-- ambient losing items effect

@@ -1,0 +1,3 @@
+# scatheExplosion <-- when a successful connection is made
+# reactorExplosion & neoplasmSplat <-- when a connection fails
+# unitEnvKill <-- potential spots that are just missing a block or two

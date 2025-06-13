@@ -1,5 +1,5 @@
 research: {
-  parent: core-shard
+  parent: core_kilderkin
   requirements: [
     copper/3000
     lead/3000
@@ -10,10 +10,11 @@ research: {
 # this will be a 5x5
 type: CoreBlock
 #type:CoreTank
+category: effect
 size: 5
 health: 14000
 armor: 1
-unitType: gamma
+unitType: cache
 incinerateNonBuildable: true
 squareSprite: false
 itemCapacity: 24000
